@@ -1,3 +1,1 @@
-### PiKWULF
-
-Counter-Strike clips. Somewhere between a hobby and a problem.
+<img src="./hero.svg" width="100%" alt="PiKWULF. Counter-Strike clips. Somewhere between a hobby and a problem. A CS2 killfeed: PiKWULF with an AK-47 headshot on my sleep schedule, with an AWP on boring clips, with a Desert Eagle headshot on the comments section, with a karambit on free time."/>
